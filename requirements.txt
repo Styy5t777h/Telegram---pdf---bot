@@ -1,6 +1,5 @@
-python-telegram-bot==20.7
-Pillow
-telegram
-fpdf
-flask
+python-telegram-bot==20.3
+fpdf==1.7.2
 aiohttp
+Flask
+Pillow
