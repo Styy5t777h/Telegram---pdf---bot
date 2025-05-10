@@ -4,3 +4,4 @@ telegram
 fpdf
 flask
 aiohttp
+rename to requirements.txt
